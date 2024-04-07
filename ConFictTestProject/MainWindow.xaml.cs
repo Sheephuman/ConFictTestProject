@@ -24,7 +24,7 @@ namespace ConFictTestProject
         private void Testbutton_Click(object sender, RoutedEventArgs e)
         {
             Testblock.Text = "プッシュテストを行います";
-            TestLabel.Content = "marge proceding....";
+            TestLabel.Content = "marge 2 proceding....";
         }   
     }
 }

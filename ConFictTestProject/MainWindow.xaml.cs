@@ -25,6 +25,6 @@ namespace ConFictTestProject
         {
             Testblock.Text = "プッシュテストを行います";
             TestLabel.Content = "proceding....";
-        }
+        }   
     }
 }
